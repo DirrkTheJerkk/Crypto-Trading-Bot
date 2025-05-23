@@ -1,0 +1,11 @@
+streamlit
+ccxt
+plotly
+pandas
+numpy
+requests
+apscheduler
+python-dotenv
+scikit-learn
+xgboost
+joblib
